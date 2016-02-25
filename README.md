@@ -1,3 +1,4 @@
 # radio-streams
-xml list 
-my radio streams list
+my radio streams xml-list
+
+free to use.
