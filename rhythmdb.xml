@@ -1,0 +1,1535 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="1.9">
+  <entry type="iradio">
+    <title>WKNC 88.1 FM (NC State) (Low Quality)</title>
+    <genre>Music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://wknc.sma.ncsu.edu:8000/wkncmq.ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WKNC 88.1 FM (NC State) (High Quality)</title>
+    <genre>Music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://wknc.sma.ncsu.edu:8000/wknchq.ogg.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1447579273</last-played>
+    <bitrate>112</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Bassoradio</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://188.117.44.132:8000/stream.m3u</location>
+    <play-count>3</play-count>
+    <last-played>1447578199</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>The Voice Her&#xE4;tt&#xE4;j&#xE4;t</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icelive0.43660-icelive0.cdn.qbrick.com/4657/43660_thevoice_fresh.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447573298</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Iskelm&#xE4; (Helsinki)</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/isk-hki.mp3</location>
+    <play-count>6</play-count>
+    <last-played>1447575661</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Classic</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.radioclassic.fi:8000/rh256</location>
+    <play-count>1</play-count>
+    <last-played>1447573271</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Nostalgia</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg4.tdf-cdn.com/9201/nrj_113217.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447578214</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio SuomiPop</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icelive0.80596-icelive0.cdn.qbrick.com/10555/80596_RadioSuomipop.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447573277</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>The Voice</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/voice.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1447573264</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Rock</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icelive0.80596-icelive0.cdn.qbrick.com/10545/80596_RadioRock.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1447573279</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Aalto</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icelive0.80596-icelive0.cdn.qbrick.com/10544/80596_RadioAalto.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447573280</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Loop</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icelive0.80596-icelive0.cdn.qbrick.com/9168/80596_loop.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447578350</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio City (Helsinki)</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/rc-hki.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447573267</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Iskelm&#xE4; Aikakone</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/isk-aika.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447575616</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Dei</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://isojako.radiodei.fi:8000/yleisohjelma</location>
+    <play-count>2</play-count>
+    <last-played>1447573275</last-played>
+    <bitrate>255</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Sputnik</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://audio.raa.fi:8000/radiosputnik</location>
+    <play-count>4</play-count>
+    <last-played>1447573311</last-played>
+    <bitrate>256</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Nova</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icelive0.41168-icelive0.cdn.qbrick.com/5050/41168_radionova1.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1447573308</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio NRJ</title>
+    <genre>Valtakunnalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg4.tdf-cdn.com/8945/nrj_179479.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447578202</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Absolute Radio 80s (Broadband)</title>
+    <genre>80's</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=a8bb</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Absolute Radio 80s (Modem)</title>
+    <genre>80's</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=a8</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Absolute Classic Rock (Broadband)</title>
+    <genre>Rock'n'Roll</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=vcbb</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Absolute Classic Rock (Modem)</title>
+    <genre>Rock'n'Roll</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=vc</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>YleX</title>
+    <genre>YLE (Valtakunnalliset)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/liveylex</location>
+    <play-count>7</play-count>
+    <last-played>1447572381</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>El&#xE4;v&#xE4;n arkiston nettiradio</title>
+    <genre>YLE (Valtakunnalliset)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/eanettiradio</location>
+    <play-count>7</play-count>
+    <last-played>1447489262</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle X3M</title>
+    <genre>YLE (Valtakunnalliset)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/livex3m</location>
+    <play-count>1</play-count>
+    <last-played>1447488834</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle Puhe</title>
+    <genre>YLE (Valtakunnalliset)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/liveradiopuhe</location>
+    <play-count>1</play-count>
+    <last-played>1447488839</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle Klassinen</title>
+    <genre>YLE (Valtakunnalliset)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/liveklassinen</location>
+    <play-count>1</play-count>
+    <last-played>1447488844</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle Radio Suomi</title>
+    <genre>YLE (Valtakunnalliset)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/liveradiosuomi</location>
+    <play-count>2</play-count>
+    <last-played>1447578164</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle Radio 1</title>
+    <genre>YLE (Valtakunnalliset)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/liveyleradio1</location>
+    <play-count>2</play-count>
+    <last-played>1447488921</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Musa</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://suomiradio.pro:8040/rh256</location>
+    <play-count>5</play-count>
+    <last-played>1447574845</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Pooki</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/pooki.mp3</location>
+    <play-count>5</play-count>
+    <last-played>1447758677</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Metro Helsinki</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icelive0.80596-icelive0.cdn.qbrick.com/10162/80596_MetroHelsinki.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447758617</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Dei Oulu</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://isojako.radiodei.fi:8000/oulu.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>FUN Tampere</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://st.downtime.fi/fun.mp3.m3u</location>
+    <play-count>8</play-count>
+    <last-played>1447758684</last-played>
+    <bitrate>111</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Jyv&#xE4;skyl&#xE4;</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/radiojkl.mp3</location>
+    <play-count>5</play-count>
+    <last-played>1447574348</last-played>
+    <bitrate>169</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Free Your Mind</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio01.nk.hel.fi:8128/listen.pls</location>
+    <play-count>1</play-count>
+    <last-played>1447758686</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>SUN Classics</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://st.downtime.fi/sunclassics.mp3.m3u</location>
+    <play-count>4</play-count>
+    <last-played>1447575110</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Iskelm&#xE4; Rex</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://media.innoventum.fi:8000/radiorex.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1447573480</last-played>
+    <bitrate>182</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Ramona</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://213.141.104.154:8000/stream/1/</location>
+    <play-count>3</play-count>
+    <last-played>1447758600</last-played>
+    <bitrate>96</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio SUN</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://st.downtime.fi/sun.mp3.m3u</location>
+    <play-count>4</play-count>
+    <last-played>1447574864</last-played>
+    <bitrate>111</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Dei Helsinki</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://isojako.radiodei.fi:8000/helsinki.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1447574339</last-played>
+    <bitrate>255</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Finest Fm</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://69.175.94.98:8102/listen.pls</location>
+    <play-count>3</play-count>
+    <last-played>1447573468</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Dei Kemi</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://isojako.radiodei.fi:8000/tornio.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio City Turku</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/rc-tku.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447574211</last-played>
+    <bitrate>159</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Helsinki</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio.radiohelsinki.fi/rh256</location>
+    <play-count>7</play-count>
+    <last-played>1447574345</last-played>
+    <bitrate>255</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Kajaus</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio.6net.fi:8000/radiokajaus.m3u</location>
+    <play-count>7</play-count>
+    <last-played>1447574829</last-played>
+    <bitrate>130</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Spirit FM</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://audio.raa.fi:8000/hifi.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1447575004</last-played>
+    <bitrate>255</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Dei Kristiinankaupunki</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://isojako.radiodei.fi:8000/kristiinankaupunki.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1447574625</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Auran Aallot</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://nettiradio.auranaallot.fi/stream</location>
+    <play-count>7</play-count>
+    <last-played>1447573381</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio City Oulu</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/rc-oul.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447574131</last-played>
+    <bitrate>163</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Pori</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/radiopori.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1447574852</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Voima</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://cast.radiovoima.fi:8000/voima.mp3.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1447574929</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio City Kouvola</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/rc-kvl.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1447573874</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Dei Pohjanmaa</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://isojako.radiodei.fi:8000/lapua.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Pro</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://192.194.89.110:8000/play.mp3.m3u</location>
+    <play-count>8</play-count>
+    <last-played>1447574855</last-played>
+    <bitrate>111</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Eazy 101</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://213.186.227.18:8000/eazy.mp3.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1447758897</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio City Joensuu</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://media2.innoventum.fi:8000/radiocityjoensuu.m3u</location>
+    <play-count>4</play-count>
+    <last-played>1447573827</last-played>
+    <bitrate>118</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Dei Kokkola</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://isojako.radiodei.fi:8000/kruunupyy.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Kuopio</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/kuopio.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1447574834</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Sea FM Radio Finland</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://s3.myradiostream.com:4976/listen.pls</location>
+    <play-count>2</play-count>
+    <last-played>1447758842</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Dei Turku</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://isojako.radiodei.fi:8000/turkueurajoki.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Steel FM</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio.securenetsystems.net/v5/STEELFM</location>
+    <play-count>3</play-count>
+    <last-played>1447574954</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio City Lappeenranta</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/rc-lpr.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1447574146</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Vaasa</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.anviawebcasting.com:8000/radiovaasa.m3u</location>
+    <play-count>4</play-count>
+    <last-played>1447574867</last-played>
+    <bitrate>116</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Play</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/play.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447573680</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Moreeni</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://153.1.15.26:8080/moreeni.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447574841</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Sandels</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://suomiradio.pro:8080/rh256/</location>
+    <play-count>6</play-count>
+    <last-played>1447574861</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Groove FM</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icelive0.80596-icelive0.cdn.qbrick.com/10547/80596_GrooveFM.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447758604</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>J&#xE4;rviradio</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio.6net.fi:8000/jarviradio.m3u</location>
+    <play-count>6</play-count>
+    <last-played>1447573483</last-played>
+    <bitrate>63</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio City Tampere</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/rc-tre.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1447574135</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Kompassi</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/kompassi.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1447574832</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio City Jyvaskyla</title>
+    <genre>Paikalliset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.sbs.fi/rc-jkl.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1447573981</last-played>
+    <bitrate>156</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Live Ireland</title>
+    <genre>folk, world, irish</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.liveireland.com/live.pls</location>
+    <rating>5</rating>
+    <play-count>6</play-count>
+    <last-played>1447579237</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Patmos</title>
+    <genre>Tilap&#xE4;iset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://46.163.245.15:8000/radio.m3u</location>
+    <play-count>4</play-count>
+    <last-played>1447576022</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Pispalan Radio 995</title>
+    <genre>Tilap&#xE4;iset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://suomiradio.pro:8000/hr256</location>
+    <play-count>4</play-count>
+    <last-played>1447577582</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Rapu</title>
+    <genre>Tilap&#xE4;iset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streaming.shoutcast.com/RadioRapu</location>
+    <play-count>1</play-count>
+    <last-played>1447489388</last-played>
+    <bitrate>63</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Leijonaradio</title>
+    <genre>Tilap&#xE4;iset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://s3.radioboss.fm:8301/live.m3u</location>
+    <play-count>4</play-count>
+    <last-played>1447576013</last-played>
+    <bitrate>320</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio KLF</title>
+    <genre>Tilap&#xE4;iset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.klf.fi:8000/stream.m3u</location>
+    <play-count>6</play-count>
+    <last-played>1447579033</last-played>
+    <bitrate>320</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Hear</title>
+    <genre>Tilap&#xE4;iset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio.hear.fi:8000/hear.ogg</location>
+    <play-count>1</play-count>
+    <last-played>1447576168</last-played>
+    <bitrate>112</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>SMOOTHRIVIERA</title>
+    <genre>Ambient</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://listen.radionomy.com/smooth-riviera</location>
+    <play-count>1</play-count>
+    <last-played>1447298463</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Dream Factory</title>
+    <genre>Ambient</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/ambient.ogg</location>
+    <bitrate>64</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Absolute Radio 90s (Modem)</title>
+    <genre>90's</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=a9</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Absolute Radio 90s (Broadband)</title>
+    <genre>90's</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=a9bb</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>StartFM - 94.2MHz, Vilnius University, Lithuania</title>
+    <genre>Underground</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://eteris.startfm.lt/startfm.ogg</location>
+    <play-count>1</play-count>
+    <last-played>1447572416</last-played>
+    <bitrate>64</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WSUM 91.7 FM (University of Wisconsin)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://vu.wsum.wisc.edu/wsumlive.m3u</location>
+    <play-count>4</play-count>
+    <last-played>1447579238</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Paradise (Low Quality)</title>
+    <genre>Eclectic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream-sd.radioparadise.com:9000/rp_96.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Paradise (High Quality)</title>
+    <genre>Eclectic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream-tx1.radioparadise.com:9000/rp_192.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>JukeBox 1240 Radio</title>
+    <genre>60's - 70's</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://globecasting.us:8000/kjaa</location>
+    <play-count>3</play-count>
+    <last-played>1447747123</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Radio Keski-Pohjanmaa</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_keskipohjanmaa</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Radio Keski-Suomi</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_keskisuomi</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Vega &#xD6;sterbotten</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_vegaosterbotten</location>
+    <play-count>1</play-count>
+    <last-played>1447488853</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Pohjois-Karjala</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_pohjkarjala</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Vega &#xD6;stnyland</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_vegaost</location>
+    <play-count>1</play-count>
+    <last-played>1447488856</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Turun Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_turunradio</location>
+    <play-count>1</play-count>
+    <last-played>1447488859</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Tampereen Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_tampere</location>
+    <play-count>1</play-count>
+    <last-played>1447488863</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - It&#xE4;-Uusimaa</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_itauusimaa</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Yle Radio Vega</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/livevega</location>
+    <play-count>1</play-count>
+    <last-played>1447488836</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Etel&#xE4;-Savon Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_etelasavo</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Vega &#xC5;boland</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_vegaabo</location>
+    <play-count>1</play-count>
+    <last-played>1447488858</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Pohjanmaan Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_pohjanmaa</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Kainuun Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_kainuu</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Satakunnan Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_satakunta</location>
+    <play-count>1</play-count>
+    <last-played>1447488864</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Vega V&#xE4;stnyland</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_vegavast</location>
+    <play-count>1</play-count>
+    <last-played>1447488850</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Lapin Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_lapinradio</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Etel&#xE4;-Karjalan Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_etelakarjala</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Radio Savo</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_radiosavo</location>
+    <play-count>1</play-count>
+    <last-played>1447489279</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Ylen L&#xE4;ntinen</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_ylenlantinen</location>
+    <play-count>1</play-count>
+    <last-played>1447488849</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Lahden Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_lahdenradio</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - S&#xE1;mi Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_samiradio</location>
+    <play-count>3</play-count>
+    <last-played>1447489271</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Radio Per&#xE4;meri</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_perameri</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Radio H&#xE4;me</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_radiohame</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Oulu Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_ouluradio</location>
+    <play-count>2</play-count>
+    <last-played>1447758492</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Yle - Kymenlaakson Radio</title>
+    <genre>YLE (Maakuntaradiot)</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mediau.yle.fi/a_kymenlaakso</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Concertzender Oude Muziek</title>
+    <genre>Classic, Old music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.greenhost.nl:8080/oudemuziek</location>
+    <play-count>2</play-count>
+    <last-played>1447924809</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>wbur.org - Boston's NPR news source</title>
+    <genre>News</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://audio.wbur.org/stream/live_ogg.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1447579247</last-played>
+    <bitrate>64</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Absolute Radio (Broadband)</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=vrbb</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Absolute Radio (Modem)</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=vr</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Rap US</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8578/nrj_168019.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447575708</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Extravadance</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8542/nrj_169073.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1447488427</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Ibiza</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8559/nrj_175788.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447575684</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Dance</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8497/nrj_164590.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447575678</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ UK Top 40</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg4.tdf-cdn.com/8773/nrj_178606.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447575674</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Rock</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8527/nrj_177497.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447578189</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Running</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8530/nrj_165311.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447758498</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Latino</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8595/nrj_165941.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447575688</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ RnB</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8485/nrj_169683.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447575711</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Love</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8615/nrj_169454.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447575704</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Fitness</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8622/nrj_164052.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447575681</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Suomihitit</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg4.tdf-cdn.com/9199/nrj_112804.mp3</location>
+    <play-count>4</play-count>
+    <last-played>1447758591</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NRJ Lounge</title>
+    <genre>NRJ-kanavat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://adwzg3.tdf-cdn.com/8503/nrj_175068.mp3</location>
+    <play-count>3</play-count>
+    <last-played>1447575691</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - I.D.M. Tranceponder</title>
+    <genre>Trance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/trance.ogg</location>
+    <play-count>4</play-count>
+    <last-played>1427973290</last-played>
+    <bitrate>64</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Tronic Lounge</title>
+    <genre>House</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/tronic.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>MUSIC BOX France</title>
+    <genre>Country</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.musicboxtv.com:8000/live</location>
+    <play-count>2</play-count>
+    <last-played>1447579719</last-played>
+    <bitrate>95</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Viva Classica</title>
+    <genre>Rondo Classic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream."iradio".fi:8000/viva-lo.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Rondo Classic Klasu Pro</title>
+    <genre>Rondo Classic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.iradio.fi:8000/klasupro-med.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1447577700</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Rondo Classic Klasu</title>
+    <genre>Rondo Classic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.iradio.fi:8000/klasu-med.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1447577645</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Viva Classica</title>
+    <genre>Rondo Classic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.iradio.fi:8000/viva-lo.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radioverkko.fi</title>
+    <genre>Tilap&#xE4;iset</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://kuuntele.radioverkko.fi:8000/live.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+</rhythmdb>
