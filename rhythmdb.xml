@@ -26,7 +26,7 @@
     <genre>Valtakunnalliset</genre>
     <artist></artist>
     <album></album>
-    <location>http://188.117.44.132:8000/stream.m3u</location>
+    <location>http://stream.basso.fi:8000/stream</location>
     <play-count>3</play-count>
     <last-played>1447578199</last-played>
     <bitrate>192</bitrate>
