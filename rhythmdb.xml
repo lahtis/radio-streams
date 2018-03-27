@@ -1532,4 +1532,15 @@
     <date>0</date>
     <media-type>application/octet-stream</media-type>
   </entry>
+  <entry type="iradio">
+    <title>Ancient FM</title>
+    <genre>Vanha musiikki</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.simplexstream.com/tunein.php/telegram/playlist.pls</location>
+    <play-count>0</play-count>
+    <last-played></last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
 </rhythmdb>
